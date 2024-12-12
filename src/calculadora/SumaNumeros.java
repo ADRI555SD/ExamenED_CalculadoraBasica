@@ -2,6 +2,14 @@ package calculadora;
 
 import java.util.Scanner;
 
+/**
+ * Realizamos una suma y una resta entre dos numeros.
+ * Los numeros son introducidos por un usuario.
+ * 
+ * @author Adrià Rocha Coll
+ * @version 1.0
+ */
+
 public class SumaNumeros {
 		
 	public static void main(String[] args) {
