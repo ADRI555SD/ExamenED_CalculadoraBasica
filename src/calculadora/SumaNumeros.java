@@ -6,6 +6,8 @@ public class SumaNumeros {
 		
 	public static void main(String[] args) {
 		
+		// Cambio realizado desde rama feature-suma
+		
 		Scanner scanner = new Scanner(System.in);
 		
 		System.out.print("Ingresa el primer número: "); // Preguntamos al usuario que introduzca un numero
